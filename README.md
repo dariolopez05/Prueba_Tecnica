@@ -43,4 +43,4 @@ cd Prueba_Tecnica
 
 ### 2. Ejecutar en local
 
-Ejecutar en tu maquina local el index.html
+Ejecutar en tu maquina local el index.html en el navegador.
