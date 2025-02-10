@@ -38,5 +38,5 @@ Este proyecto es un formulario de contacto completamente funcional desarrollado 
 Primero, clona el repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/tu-usuario/proyecto-formulario.git
-cd proyecto-formulario
+git clone https://github.com/dariolopez05/Prueba_Tecnica.git
+cd Prueba_Tecnica
