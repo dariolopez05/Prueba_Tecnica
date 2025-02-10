@@ -37,6 +37,10 @@ Este proyecto es un formulario de contacto completamente funcional desarrollado 
 
 Primero, clona el repositorio en tu máquina local:
 
-```bash
+Dentro del terminal ejecutar los siguientes comandos:
 git clone https://github.com/dariolopez05/Prueba_Tecnica.git
 cd Prueba_Tecnica
+
+### 2. Ejecutar en local
+
+Ejecutar en tu maquina local el index.html
